@@ -1,0 +1,9 @@
+C:\Users\137105\Aula4\DDD\DDD.Domain\bin\Debug\netstandard2.0\DDD.Domain.deps.json
+C:\Users\137105\Aula4\DDD\DDD.Domain\bin\Debug\netstandard2.0\DDD.Domain.dll
+C:\Users\137105\Aula4\DDD\DDD.Domain\bin\Debug\netstandard2.0\DDD.Domain.pdb
+C:\Users\137105\Aula4\DDD\DDD.Domain\obj\Debug\netstandard2.0\DDD.Domain.csprojAssemblyReference.cache
+C:\Users\137105\Aula4\DDD\DDD.Domain\obj\Debug\netstandard2.0\DDD.Domain.AssemblyInfoInputs.cache
+C:\Users\137105\Aula4\DDD\DDD.Domain\obj\Debug\netstandard2.0\DDD.Domain.AssemblyInfo.cs
+C:\Users\137105\Aula4\DDD\DDD.Domain\obj\Debug\netstandard2.0\DDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\137105\Aula4\DDD\DDD.Domain\obj\Debug\netstandard2.0\DDD.Domain.dll
+C:\Users\137105\Aula4\DDD\DDD.Domain\obj\Debug\netstandard2.0\DDD.Domain.pdb

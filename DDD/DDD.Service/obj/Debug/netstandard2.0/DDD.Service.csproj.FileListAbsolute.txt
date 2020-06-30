@@ -1,0 +1,14 @@
+C:\Users\137105\Aula4\DDD\DDD.Service\bin\Debug\netstandard2.0\DDD.Service.deps.json
+C:\Users\137105\Aula4\DDD\DDD.Service\bin\Debug\netstandard2.0\DDD.Service.dll
+C:\Users\137105\Aula4\DDD\DDD.Service\bin\Debug\netstandard2.0\DDD.Service.pdb
+C:\Users\137105\Aula4\DDD\DDD.Service\bin\Debug\netstandard2.0\DDD.Domain.dll
+C:\Users\137105\Aula4\DDD\DDD.Service\bin\Debug\netstandard2.0\DDD.Infra.Data.dll
+C:\Users\137105\Aula4\DDD\DDD.Service\bin\Debug\netstandard2.0\DDD.Domain.pdb
+C:\Users\137105\Aula4\DDD\DDD.Service\bin\Debug\netstandard2.0\DDD.Infra.Data.pdb
+C:\Users\137105\Aula4\DDD\DDD.Service\obj\Debug\netstandard2.0\DDD.Service.csprojAssemblyReference.cache
+C:\Users\137105\Aula4\DDD\DDD.Service\obj\Debug\netstandard2.0\DDD.Service.AssemblyInfoInputs.cache
+C:\Users\137105\Aula4\DDD\DDD.Service\obj\Debug\netstandard2.0\DDD.Service.AssemblyInfo.cs
+C:\Users\137105\Aula4\DDD\DDD.Service\obj\Debug\netstandard2.0\DDD.Service.csproj.CoreCompileInputs.cache
+C:\Users\137105\Aula4\DDD\DDD.Service\obj\Debug\netstandard2.0\DDD.Service.csproj.CopyComplete
+C:\Users\137105\Aula4\DDD\DDD.Service\obj\Debug\netstandard2.0\DDD.Service.dll
+C:\Users\137105\Aula4\DDD\DDD.Service\obj\Debug\netstandard2.0\DDD.Service.pdb
